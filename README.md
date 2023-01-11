@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogesh Giri
-<!-- - 👀 I’m interested in everything -->
+- 👀 I’m interested in everything
 - 🌱 I’m currently shifting to MERN
 - 💞️ I’m looking to work around nice people
 - 📫 My linkdin profile www.linkedin.com/in/yogesh-giri-405a04201

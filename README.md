@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Yogesh Giri
-- 👀 I’m interested in everything
-- 🌱 I’m currently shifting to MERN
-- 💞️ I’m looking to work around nice people
-- 📫 linkdin www.linkedin.com/in/yogesh-giri-405a04201
+- Yogesh Giri here
+- Currently shifting to MERN
+- Love smiling faces😊 
 
 <!---
 madm234/madm234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

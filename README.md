@@ -1,6 +1,4 @@
--Yogesh Giri here
--Currently shifting to MERN
--Love smiling faces😊 
+Love smiling faces😊 
 
 <!---
 madm234/madm234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
